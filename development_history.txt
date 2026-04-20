@@ -5,3 +5,4 @@ Project Development Log
 [2026-04-19T13:57:00] Refactor core modules
 [2026-04-19T14:21:00] Update configurations
 [2026-04-19T20:57:00] Improve performance
+[2026-04-20T13:08:00] Fix minor bugs in UI
