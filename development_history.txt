@@ -24,3 +24,4 @@ Project Development Log
 [2026-04-24T22:54:00] Update documentation
 [2026-04-25T12:53:00] Update dependencies
 [2026-04-25T13:03:00] Fix layout shift
+[2026-04-25T16:52:00] Fix minor bugs in UI
