@@ -116,3 +116,4 @@ Project Development Log
 [2026-05-22T23:33:00] Fix layout shift
 [2026-05-23T09:19:00] Implement caching mechanisms
 [2026-05-23T09:30:00] Fix minor bugs in UI
+[2026-05-23T09:54:00] Clean up dead code
