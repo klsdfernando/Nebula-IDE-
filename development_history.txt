@@ -156,3 +156,4 @@ Project Development Log
 [2026-05-31T16:32:00] Add utility functions
 [2026-05-31T16:38:00] Fix minor bugs in UI
 [2026-05-31T17:25:00] Add utility functions
+[2026-05-31T21:07:00] Fix layout shift
