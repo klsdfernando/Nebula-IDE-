@@ -154,3 +154,4 @@ Project Development Log
 [2026-05-31T10:13:00] Refactor core modules
 [2026-05-31T12:47:00] Refactor core modules
 [2026-05-31T16:32:00] Add utility functions
+[2026-05-31T16:38:00] Fix minor bugs in UI
