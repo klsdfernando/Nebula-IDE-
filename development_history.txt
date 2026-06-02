@@ -166,3 +166,4 @@ Project Development Log
 [2026-06-02T11:35:00] Update dependencies
 [2026-06-02T14:10:00] Clean up dead code
 [2026-06-02T14:32:00] Update documentation
+[2026-06-02T22:04:00] Clean up dead code
