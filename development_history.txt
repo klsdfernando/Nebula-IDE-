@@ -164,3 +164,4 @@ Project Development Log
 [2026-06-01T20:42:00] Improve error handling
 [2026-06-01T22:44:00] Add utility functions
 [2026-06-02T11:35:00] Update dependencies
+[2026-06-02T14:10:00] Clean up dead code
