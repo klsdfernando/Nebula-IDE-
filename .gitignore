@@ -1,0 +1,51 @@
+# ══════════════════════════════════════
+#  Superluminal / Nebula IDE - .gitignore
+# ══════════════════════════════════════
+
+# ─── Environment & Secrets ───
+.env
+.env.local
+.env.production
+*.p8
+*.pem
+*.key
+
+# ─── Node Modules ───
+node_modules/
+
+# ─── Database Files ───
+*.db
+*.db-shm
+*.db-wal
+
+# ─── Build Outputs ───
+vscode/.build/
+vscode/out/
+cline-source/dist/
+cline-source/dist-standalone/
+
+# ─── IDE & Editor ───
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── OS Files ───
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ─── Logs ───
+*.log
+startup_log.txt
+
+# ─── Agent / AI Config (local) ───
+.agents/
+.gemini/
+.claude/
+.codex/
+
+# ─── Misc ───
+*.tgz
+*.vsix
